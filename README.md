@@ -5,7 +5,7 @@
 - 💼 Junior Developer at a startup, shipping production features
 - 🛠️ Open to **freelance projects**: business websites, dashboards, web apps, AI chatbots
 - 🌱 Currently learning: LLM APIs, RAG, AI agents and automation
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/priya-singh-bb5787249/?isSelfProfile=true) · [Email](mailto:pri7yasingh@gmail.com)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/priya-singh-bb5787249/) · [Email](mailto:pri7yasingh@gmail.com)
 
 ---
 
@@ -33,4 +33,4 @@
 ### 🤝 Work With Me
 
 Need a website, dashboard or AI chatbot for your business? I focus on clean code, mobile-friendly design and on-time delivery.
-**[Message me on LinkedIn](https://www.linkedin.com/in/priya-singh-bb5787249/?isSelfProfile=true)** and I'll reply within 24 hours.
+**[Message me on LinkedIn](https://www.linkedin.com/in/priya-singh-bb5787249/)** and I'll reply within 24 hours.
